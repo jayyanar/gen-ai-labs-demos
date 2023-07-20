@@ -1,2 +1,6 @@
-# gen-ai-labs-demos
-# gen-ai-labs-demos
+# Prerequesties
+
+## Create a API Token from Cohere
+
+
+## Create API token from Dreamstudio
