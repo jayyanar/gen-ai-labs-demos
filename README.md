@@ -1,7 +1,7 @@
 # Prerequisites
 
 
-## Access to AWS Console 
+## 1) Access to AWS Console 
 
 Link - https://aws.amazon.com/console/
 
@@ -12,7 +12,7 @@ Click on Log-in and Create Account If not Exist
 ![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/7433b336-e843-406c-82b6-2fdc3294e037)
 
 
-## Create Sagemaker Domain and Studio
+## 2) Create Sagemaker Domain and Studio
 
 - Select Sagemaker from Search Tab
   <img width="444" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/0c73b82f-ee73-4e6c-b25f-d7dbcc3e49b8">
@@ -25,14 +25,14 @@ Click on Log-in and Create Account If not Exist
 
 
 
-## Create a API Token from Cohere
+## 3) Create a API Token from Cohere
 
 Link - https://dashboard.cohere.ai/api-keys Signup and Get the Key
 
 ![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/4dbc0c34-fba8-43cb-a17c-e676b56f1cf0)
 
 
-## Create API token from Dreamstudio
+## 4) Create API token from Dreamstudio
 
 
 Link - https://dreamstudio.ai/account
@@ -40,7 +40,7 @@ Link - https://dreamstudio.ai/account
 
 ![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/0800006b-2f30-4fcb-8660-3fde87726b47)
 
-## Create JSON file locally e.g) cred.json
+## 5) Create JSON file locally e.g) cred.json
 
 {
 cohere_api_key:"********************Sftx"
