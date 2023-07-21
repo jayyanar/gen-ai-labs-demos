@@ -69,18 +69,40 @@ Amazon SageMaker Autopilot supports 2 built-in algorithms: XGBoost and Linear Le
 Q: Can I stop an Amazon SageMaker Autopilot job manually?
 Yes. You can stop a job at any time. When an Amazon SageMaker Autopilot job is stopped, all ongoing trials will be stopped and no new trial will be started.
 
-Create a multiple choice quiz on the topic of SageMaker Low-code ML FAQ consisting of 4 questions. Each question should have 4 options. Also include the correct answer for each question using the starting string 'Correct Answer:`
+Create a multiple choice quiz on the topic of SageMaker Low-code ML FAQ consisting of 4 questions. Each question should have 4 options. Also include the correct answer for each question using the starting string 'Correct Answer:` and  and 'Explanation:'
 ##
 - Completion --> "You can check it"
 
-<img width="866" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/93f945cc-20ab-4123-89df-eb948a730819">
+<img width="864" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/9fd907d0-ab02-4f8c-8f4b-5bd3dcc3a425">
 
 
-## Example ZeroShot Prompting - Reasoning Engine 1
 
-## Example ZeroShot Prompting - Reasoning Engine 2
+## Example ZeroShot Prompting - Reasoning Engine
+
+- Prompting Example -->
+    Can Sachin can win Cricket World Cup 2023?
+    Give Yes or No Answer
+    Give the reason behind it
+
+- Completion --> "Sachin Tendulkar retired from cricket in 2013, and it is unlikely that he will play in the next Cricket World Cup in 2023."
+
+  <img width="869" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/6854c4fa-f356-4b4d-8763-e459568eda2f">
 
 
 ## Example Chain of Thoughts Prompting
+- Prompting Example -->
+      I went to the market and bought 10 apples. I gave 2 apples to the neighbor and 2 to the repairman. I then went and bought 5 more apples and ate 1.
+      How many apples did I remain with?
+
+Let's think step by step
+- Completion -->
+      1. I went to the market and bought 10 apples.
+      2. I gave 2 apples to the neighbor and 2 to the repairman.
+      3. I then went and bought 5 more apples.
+      4. I ate 1 apples
+      5. I have 10 - 2 - 2 + 5 + 1 = 10 apples left.
+
+<img width="867" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/365a28fb-9c1d-49c7-b41f-436849f16076">
+
 
 
