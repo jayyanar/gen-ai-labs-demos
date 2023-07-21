@@ -1,0 +1,5 @@
+# Read in the CSV file under current path file name "all_stocks_5yr.csv"
+# Print the first 10 rows
+# Print number of rows
+# Remove the duplicate columns in date and print the number of row now
+# create a plot using Matplotlib  with X-Axis and Y-Axis with legend and store as png
