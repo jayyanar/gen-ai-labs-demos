@@ -1,48 +1,46 @@
-# Prerequisites
+# Test Large Language Model using AWS Foundation Models
 
 
-## Access to AWS Console 
+## Access Foundation Model
 
-Link - https://aws.amazon.com/console/
+Go to "Amazon Sagemaker" ---> "JumpStart" --> Foundation Models --> Search --> Jumbo --> AI21 Jurassic-2 Ultra
 
-![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/69bf3478-7dcb-4ab8-88f0-6d1b2a27c764)
-
-Click on Log-in and Create Account If not Exist
-
-![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/7433b336-e843-406c-82b6-2fdc3294e037)
+![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/1bca29ab-b688-4fb0-ace5-f061f667e6e7)
 
 
-## Create Sagemaker Domain and Studio
-
-- Select Sagemaker from Search Tab
-  <img width="444" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/0c73b82f-ee73-4e6c-b25f-d7dbcc3e49b8">
-
-- Create Sagemaker Domain
-  <img width="551" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/2e4ef32b-94f3-42ad-87f7-8e0384d08672">
-
-- Launch the Studio app
-  <img width="1439" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/a1872acd-5fb3-414d-921e-75c58c82e465">
+## Select PlayGround
 
 
-
-## Create a API Token from Cohere
-
-Link - https://dashboard.cohere.ai/api-keys Signup and Get the Key
-
-![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/4dbc0c34-fba8-43cb-a17c-e676b56f1cf0)
+-  Go to Playground
+  <img width="1017" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/100897e4-c181-4cf3-9ae6-f5b57aebc841">
 
 
-## Create API token from Dreamstudio
+  ![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/5262a780-7a11-4d8e-8976-da31fdf62aca)
 
 
-Link - https://dreamstudio.ai/account
+## Example Basic Prompting
+
+Prompting Example: "What is Sagemaker"
+
+Completion: "SageMaker is a fully managed service that provides everything needed to build, train, and deploy machine learning models. It includes a Jupyter notebook instance, a managed distributed training environment, and model hosting. SageMaker makes it easy to get started with machine learning, and scales to support advanced use cases."
+
+<img width="898" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/aeda441b-aae3-483e-83a7-1e9a51acc08e">
 
 
-![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/0800006b-2f30-4fcb-8660-3fde87726b47)
 
-## Create JSON file locally e.g) cred.json
+## Example ZeroShot Prompting
 
-{
-cohere_api_key:"********************Sftx"
-dreamstudio_api_key:"sk-z******************************"
-}
+Prompting Example: Translate English to French : "I love AWS User Group Bangalore. All the technical topic provided by them are insightful and make positive impacts"
+
+Completion: "J'aime AWS User Group Bangalore. Tous les sujets techniques fournis par eux sont précieux et auront un impact positif."
+
+<img width="864" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/d9b28d00-f055-409c-a810-e5a9c0cf4c44">
+
+
+## Example FewShot Prompting
+
+
+
+## Example Chain of Thoughts Prompting
+
+
