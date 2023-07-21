@@ -37,7 +37,7 @@ Link - https://dashboard.cohere.ai/api-keys Signup and Get the Key
 - Create JSON file locally e.g) cred.json
 
 {
-cohere_api_key:"********************Sftx"
+cohere_api_key:"********************Sftx",
 dreamstudio_api_key:"sk-z******************************"
 }
 
