@@ -46,3 +46,9 @@ Link - https://dreamstudio.ai/account
 cohere_api_key:"********************Sftx"
 dreamstudio_api_key:"sk-z******************************"
 }
+
+## 6) Create a AWS Skill Builder ID
+- https://skillbuilder.aws/
+
+## 7) Ensure you setup a VSCode and Enable Codewhisperer
+- https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setting-up.html
