@@ -1,5 +1,18 @@
 # Prerequisites
 
+
+## Access to AWS Console 
+
+Link - https://aws.amazon.com/console/
+
+![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/69bf3478-7dcb-4ab8-88f0-6d1b2a27c764)
+
+Click on Log-in and Create Account If not Exist
+
+![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/7433b336-e843-406c-82b6-2fdc3294e037)
+
+
+
 ## Create a API Token from Cohere
 
 Link - https://dashboard.cohere.ai/api-keys Signup and Get the Key
