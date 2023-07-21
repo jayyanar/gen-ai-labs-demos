@@ -1,5 +1,6 @@
 # Prerequisites
 
+## For Lab1 and Lab2 - We need Prerequisites 1) and 2)
 
 ## 1) Access to AWS Console 
 
@@ -24,15 +25,21 @@ Click on Log-in and Create Account If not Exist
   <img width="1439" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/a1872acd-5fb3-414d-921e-75c58c82e465">
 
 
-
-## 3) Create a API Token from Cohere
+## 3) Create a API Token from Cohere - (This is Needed for Lab3)
 
 Link - https://dashboard.cohere.ai/api-keys Signup and Get the Key
 
 ![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/4dbc0c34-fba8-43cb-a17c-e676b56f1cf0)
 
+- Create JSON file locally e.g) cred.json
 
-## 4) Create API token from Dreamstudio
+{
+cohere_api_key:"********************Sftx"
+dreamstudio_api_key:"sk-z******************************"
+}
+
+
+## 4) Create API token from Dreamstudio - (This is Needed for Lab4)
 
 
 Link - https://dreamstudio.ai/account
@@ -40,15 +47,18 @@ Link - https://dreamstudio.ai/account
 
 ![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/0800006b-2f30-4fcb-8660-3fde87726b47)
 
-## 5) Create JSON file locally e.g) cred.json
+
+- Create JSON file locally e.g) cred.json
 
 {
 cohere_api_key:"********************Sftx"
 dreamstudio_api_key:"sk-z******************************"
 }
 
-## 6) Create a AWS Skill Builder ID
+
+
+## 5) Create a AWS Skill Builder ID - (This is Needed for Lab5)
 - https://skillbuilder.aws/
 
-## 7) Ensure you setup a VSCode and Enable Codewhisperer
+## 6) Ensure you setup a VSCode and Enable Codewhisperer - - (This is Needed for Lab5)
 - https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setting-up.html
