@@ -1,24 +1,18 @@
 # Prerequisites
 
 
+## 1) Create a AWS Skill Builder ID
 
-## 1) Create API token from Dreamstudio
+- https://skillbuilder.aws/
 
+## 2) Ensure you setup a VSCode and Enable Codewhisperer
 
-Link - https://dreamstudio.ai/account
-
-
-![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/0800006b-2f30-4fcb-8660-3fde87726b47)
-
-
-## 2) Create a JSON file cred.json or update the existing one 
-
-{
-cohere_api_key:"********************Sftx"
-dreamstudio_api_key:"sk-z******************************"
-}
+- https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setting-up.html
 
 
-## 3) Download lab file and upload to Sagemaker Studio
+## Go to the execution folder 
+
+- lab5/codewhispere_demo/stock_analysis
+
 
 
