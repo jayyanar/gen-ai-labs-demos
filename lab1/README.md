@@ -68,10 +68,9 @@ Amazon SageMaker Autopilot supports 2 built-in algorithms: XGBoost and Linear Le
 
 Q: Can I stop an Amazon SageMaker Autopilot job manually?
 Yes. You can stop a job at any time. When an Amazon SageMaker Autopilot job is stopped, all ongoing trials will be stopped and no new trial will be started.
-##
 
 Create a multiple choice quiz on the topic of SageMaker Low-code ML FAQ consisting of 4 questions. Each question should have 4 options. Also include the correct answer for each question using the starting string 'Correct Answer:`
-
+##
 - Completion --> "You can check it"
 
 <img width="866" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/93f945cc-20ab-4123-89df-eb948a730819">
