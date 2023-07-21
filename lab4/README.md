@@ -21,4 +21,6 @@ dreamstudio_api_key:"sk-z******************************"
 
 ## 3) Download lab file and upload to Sagemaker Studio
 
+- https://github.com/jayyanar/gen-ai-labs-demos/blob/main/lab4/Stability_API_Basic_Inference.ipynb
+
 
