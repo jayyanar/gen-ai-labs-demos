@@ -18,4 +18,4 @@ dreamstudio_api_key:"sk-z******************************"
 
 ## 3) Download the file "PromptEngineering_lab2.ipynb" and upload to sagemaker studio
 
-- https://github.com/jayyanar/gen-ai-labs-demos/blob/main/lab3/PromptEngineering_lab2.ipynb
+- https://github.com/jayyanar/gen-ai-labs-demos/blob/main/lab3-cohere-api/PromptEngineering.ipynb
