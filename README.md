@@ -13,7 +13,9 @@ Click on Log-in and Create Account If not Exist
 ![image](https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/7433b336-e843-406c-82b6-2fdc3294e037)
 
 
-## 2) Create Sagemaker Domain and Studio
+## 2) Ensure that you are in us-east-1 or NVirgina Region and Also request access to AWS Sagemaker Foundation Models - Wait for approval to Practice Lab1 and Lab2
+
+## 3) Create Sagemaker Domain and Studio
 
 - Select Sagemaker from Search Tab
   
@@ -28,7 +30,7 @@ Click on Log-in and Create Account If not Exist
   <img width="1439" alt="image" src="https://github.com/jayyanar/gen-ai-labs-demos/assets/12956021/a1872acd-5fb3-414d-921e-75c58c82e465">
 
 
-## 3) Create a API Token from Cohere - (This is Needed for Lab3)
+## 4) Create a API Token from Cohere - (This is Needed for Lab3)
 
 Link - https://dashboard.cohere.ai/api-keys Signup and Get the Key
 
@@ -42,7 +44,7 @@ dreamstudio_api_key:"sk-z******************************"
 }
 
 
-## 4) Create API token from Dreamstudio - (This is Needed for Lab4)
+## 5) Create API token from Dreamstudio - (This is Needed for Lab4)
 
 
 Link - https://dreamstudio.ai/account
@@ -60,8 +62,8 @@ dreamstudio_api_key:"sk-z******************************"
 
 
 
-## 5) Create a AWS Skill Builder ID - (This is Needed for Lab5)
+## 6) Create a AWS Skill Builder ID - (This is Needed for Lab5)
 - https://skillbuilder.aws/
 
-## 6) Ensure you setup a VSCode and Enable Codewhisperer - - (This is Needed for Lab5)
+## 7) Ensure you setup a VSCode and Enable Codewhisperer - - (This is Needed for Lab5)
 - https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setting-up.html
